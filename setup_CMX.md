@@ -32,6 +32,11 @@ Install Requirement with package manager:
     $ nvm install 14
     $ nvm use 14
     ```
+
+    !!!NOTE!!!
+    If you are using ARM structure CPU, node.js V14 may not suport your Mac.
+    You might have to use some work around like VM(virtual machine) or DOCKER.
+
 3. Download cmx sample project with git.
     !!!NOTE!!!
     You need to have account access to cmx project first
